@@ -5,4 +5,8 @@ API with Singleton implementation
 ## SwaggerUI with added documentation using ProductresponseTypes
 ## CSharp Records for Entities
 ## Singleton Class with Singleton DI
+## Entity Framework Core
+## JWT Authentication and Authorization
+## Abstract Generic Repository
+## Custom RangeAttribute for Validation
 
