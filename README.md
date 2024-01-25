@@ -2,7 +2,7 @@
 API with Singleton implementation
 
 ## .Net 6.0
-## SwaggerUI with added documentation using ProductresponseTypes
+## SwaggerUI with added documentation using ProductResponseTypes
 ## CSharp Records for Entities
 ## Singleton Class with Singleton DI
 ## Entity Framework Core
