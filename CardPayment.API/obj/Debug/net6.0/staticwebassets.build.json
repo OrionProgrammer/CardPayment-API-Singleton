@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "D1YfQxaEPq/xRPA7pDLgJ5c1bfoBtVwp29B0uc80jlU=",
+  "Source": "CardPayment.API",
+  "BasePath": "_content/CardPayment.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

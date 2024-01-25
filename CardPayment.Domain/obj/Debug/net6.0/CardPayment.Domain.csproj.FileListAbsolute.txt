@@ -1,0 +1,12 @@
+C:\Code Repo\Card Payment API - Singleton\CardPayment.Domain\bin\Debug\net6.0\CardPayment.Domain.deps.json
+C:\Code Repo\Card Payment API - Singleton\CardPayment.Domain\bin\Debug\net6.0\CardPayment.Domain.dll
+C:\Code Repo\Card Payment API - Singleton\CardPayment.Domain\bin\Debug\net6.0\CardPayment.Domain.pdb
+C:\Code Repo\Card Payment API - Singleton\CardPayment.Domain\obj\Debug\net6.0\CardPayment.Domain.csproj.AssemblyReference.cache
+C:\Code Repo\Card Payment API - Singleton\CardPayment.Domain\obj\Debug\net6.0\CardPayment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code Repo\Card Payment API - Singleton\CardPayment.Domain\obj\Debug\net6.0\CardPayment.Domain.AssemblyInfoInputs.cache
+C:\Code Repo\Card Payment API - Singleton\CardPayment.Domain\obj\Debug\net6.0\CardPayment.Domain.AssemblyInfo.cs
+C:\Code Repo\Card Payment API - Singleton\CardPayment.Domain\obj\Debug\net6.0\CardPayment.Domain.csproj.CoreCompileInputs.cache
+C:\Code Repo\Card Payment API - Singleton\CardPayment.Domain\obj\Debug\net6.0\CardPayment.Domain.dll
+C:\Code Repo\Card Payment API - Singleton\CardPayment.Domain\obj\Debug\net6.0\refint\CardPayment.Domain.dll
+C:\Code Repo\Card Payment API - Singleton\CardPayment.Domain\obj\Debug\net6.0\CardPayment.Domain.pdb
+C:\Code Repo\Card Payment API - Singleton\CardPayment.Domain\obj\Debug\net6.0\ref\CardPayment.Domain.dll
